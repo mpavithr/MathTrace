@@ -5,7 +5,7 @@ File explanation -
 
 ```updated_cnn.py```: optimized CNN that yields higher accuracy and precision and recall than other repo
 
-```experiment_with_optimizer_act_func_pooling.ipynb: experiment```: experimented with various optimizers, activation functions and pooling layers to optimize CNN model.
+```experiment_with_optimizer_act_func_pooling.ipynb```: experimented with various optimizers, activation functions and pooling layers to optimize CNN model.
 
 ```data_augmentation_ex.ipynb```: experimented with data augmentation to optimize CNN model
 
